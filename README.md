@@ -12,8 +12,8 @@ The Housing Price Simulator Mobile App is an application that empowers users to 
 
 ## Tech Stack
 
-Programming Language: Python
-Frameworks/Libraries: scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, GridSearchCV, ElasticNet, cross-val-score
-Data Science/ML Tools: Google Colab
+- Programming Language: Python
+- Frameworks/Libraries: scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, GridSearchCV, ElasticNet, cross-val-score
+- Data Science/ML Tools: Google Colab
 
 
