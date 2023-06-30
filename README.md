@@ -4,7 +4,7 @@ The Housing Price Simulator Mobile App is an application that empowers users to 
 
 ## Key Features
 
-- Simulate and predict housing prices based on various factors such as location, size, amenities, etc.
+- Simulate and predict housing prices based on various factors such as location, size, number of floors/bedrooms, etc.
 - Achieved an impressive 99.99% improvement in accuracy compared to baseline models through meticulous data analysis.
 - Seamlessly integrated the predictive model into the app for a smooth user experience.
 - Robust handling of missing data ensures reliable predictions.
