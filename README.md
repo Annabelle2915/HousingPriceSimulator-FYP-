@@ -1,4 +1,4 @@
-# PropertyAI-HousingPriceSimulatorMobileApp 
+# PropertyAI-HousingPriceSimulatorMobileApp (FYP)
 
 The Housing Price Simulator Mobile App is an application that empowers users to simulate and predict housing prices with high precision. This project aims to provide a user-centric and informed decision-making experience in the housing domain.
 
