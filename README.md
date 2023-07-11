@@ -1,4 +1,4 @@
-# PropertyAI-HousingPriceSimulatorMobileApp (ONGOING)
+# PropertyAI-HousingPriceSimulatorMobileApp 
 
 The Housing Price Simulator Mobile App is an application that empowers users to simulate and predict housing prices with high precision. This project aims to provide a user-centric and informed decision-making experience in the housing domain.
 
@@ -9,7 +9,12 @@ The Housing Price Simulator Mobile App is an application that empowers users to 
 - Seamlessly integrated the predictive model into the app for a smooth user experience.
 - Robust handling of missing data ensures reliable predictions.
 - User-friendly interface and intuitive navigation for easy usage.
-
+  
+## Model Used
+- Boosting Model: XGBoost, lightGBM, Gradient Boosting
+- Linear Regression: Lasso, Ridge Regularization
+- Random Forest
+  
 ## Tech Stack
 
 - Programming Language: Python, Java
